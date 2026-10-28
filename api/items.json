@@ -1,0 +1,792 @@
+{
+ "site": "KitepKana",
+ "version": "1.0",
+ "count": 12,
+ "items": [
+  {
+   "id": "kit01",
+   "name": {
+    "kg": "Ак кеме",
+    "ru": "Белый пароход",
+    "en": "The White Ship"
+   },
+   "desc": {
+    "kg": "Чыңгыз Айтматовдун эң белгилүү повестторунун бири. Бала жана Мүйүздүү Бугу эне жөнүндөгү уламыш.",
+    "ru": "Одна из самых известных повестей Чингиза Айтматова.",
+    "en": "One of Chingiz Aitmatov's most famous novellas."
+   },
+   "category": "kyrgyz",
+   "price": 650,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.9,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/book,old?lock=201",
+   "gallery": [
+    "https://loremflickr.com/800/600/book,old?lock=201",
+    "https://loremflickr.com/800/600/book,old?lock=202",
+    "https://loremflickr.com/800/600/book,old?lock=203"
+   ],
+   "specs": {
+    "author": "Ч. Айтматов",
+    "pages": 192,
+    "lang": {
+     "kg": "Кыргызча",
+     "ru": "Кыргызский",
+     "en": "Kyrgyz"
+    },
+    "cover": {
+     "kg": "Катуу",
+     "ru": "Твёрдая",
+     "en": "Hardcover"
+    },
+    "year": 2023,
+    "publisher": "Бийиктик"
+   },
+   "tags": [
+    "айтматов",
+    "классика"
+   ],
+   "reviews": [
+    {
+     "author": "Эрмек С.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1756161600000
+    },
+    {
+     "author": "Айпери Ж.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1757198400000
+    },
+    {
+     "author": "Айбек А.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1758580800000
+    }
+   ]
+  },
+  {
+   "id": "kit02",
+   "name": {
+    "kg": "Жамийла",
+    "ru": "Джамиля",
+    "en": "Jamilia"
+   },
+   "desc": {
+    "kg": "Луи Арагон «дүйнөдөгү эң кооз сүйүү окуясы» деп атаган повесть. Согуш учурундагы айыл турмушу.",
+    "ru": "Повесть, которую Арагон назвал «прекраснейшей историей любви».",
+    "en": "The novella Aragon called \"the most beautiful love story\"."
+   },
+   "category": "kyrgyz",
+   "price": 720,
+   "oldPrice": 850,
+   "stock": 10,
+   "rating": 4.9,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/book,library?lock=204",
+   "gallery": [
+    "https://loremflickr.com/800/600/book,library?lock=204",
+    "https://loremflickr.com/800/600/book,library?lock=205",
+    "https://loremflickr.com/800/600/book,library?lock=206"
+   ],
+   "specs": {
+    "author": "Ч. Айтматов",
+    "pages": 128,
+    "lang": {
+     "kg": "Кыргызча",
+     "ru": "Кыргызский",
+     "en": "Kyrgyz"
+    },
+    "cover": {
+     "kg": "Жумшак",
+     "ru": "Мягкая",
+     "en": "Paperback"
+    },
+    "year": 2024,
+    "publisher": "Бийиктик"
+   },
+   "tags": [
+    "айтматов",
+    "сүйүү"
+   ],
+   "reviews": [
+    {
+     "author": "Айбек А.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1755988800000
+    },
+    {
+     "author": "Алина К.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1759876800000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1757457600000
+    }
+   ]
+  },
+  {
+   "id": "kit03",
+   "name": {
+    "kg": "Манас эпосу (кыскача)",
+    "ru": "Эпос Манас (кратко)",
+    "en": "Epic of Manas (short)"
+   },
+   "desc": {
+    "kg": "Сүрөттөр менен кооздолгон «Манас» эпосунун кыскача басылышы. Үй-бүлөлүк китепкана үчүн.",
+    "ru": "Иллюстрированное краткое издание эпоса «Манас».",
+    "en": "An illustrated short edition of the Manas epic."
+   },
+   "category": "kyrgyz",
+   "price": 1800,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 5.0,
+   "isNew": true,
+   "img": "https://loremflickr.com/800/600/epic,book?lock=207",
+   "gallery": [
+    "https://loremflickr.com/800/600/epic,book?lock=207",
+    "https://loremflickr.com/800/600/epic,book?lock=208",
+    "https://loremflickr.com/800/600/epic,book?lock=209"
+   ],
+   "specs": {
+    "author": "С. Каралаев (айтуусу)",
+    "pages": 420,
+    "lang": {
+     "kg": "Кыргызча",
+     "ru": "Кыргызский",
+     "en": "Kyrgyz"
+    },
+    "cover": {
+     "kg": "Катуу",
+     "ru": "Твёрдая",
+     "en": "Hardcover"
+    },
+    "year": 2025,
+    "publisher": "Шам"
+   },
+   "tags": [
+    "манас",
+    "эпос"
+   ],
+   "reviews": [
+    {
+     "author": "Айпери Ж.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1756161600000
+    },
+    {
+     "author": "Алина К.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1758321600000
+    },
+    {
+     "author": "Эрмек С.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1758408000000
+    },
+    {
+     "author": "Азамат Б.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1759617600000
+    }
+   ]
+  },
+  {
+   "id": "kit04",
+   "name": {
+    "kg": "Кичинекей ханзада",
+    "ru": "Маленький принц",
+    "en": "The Little Prince"
+   },
+   "desc": {
+    "kg": "Сент-Экзюперинин философиялык жомогу. Балдарга да, чоңдорго да.",
+    "ru": "Философская сказка Сент-Экзюпери.",
+    "en": "Saint-Exupéry's philosophical tale."
+   },
+   "category": "world",
+   "price": 890,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.8,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/classic,book?lock=210",
+   "gallery": [
+    "https://loremflickr.com/800/600/classic,book?lock=210",
+    "https://loremflickr.com/800/600/classic,book?lock=211",
+    "https://loremflickr.com/800/600/classic,book?lock=212"
+   ],
+   "specs": {
+    "author": "А. де Сент-Экзюпери",
+    "pages": 112,
+    "lang": {
+     "kg": "Орусча",
+     "ru": "Русский",
+     "en": "Russian"
+    },
+    "cover": {
+     "kg": "Катуу",
+     "ru": "Твёрдая",
+     "en": "Hardcover"
+    },
+    "year": 2023,
+    "publisher": "Эксмо"
+   },
+   "tags": [
+    "классика"
+   ],
+   "reviews": [
+    {
+     "author": "Жылдыз М.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1756161600000
+    },
+    {
+     "author": "Бекзат О.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1760740800000
+    },
+    {
+     "author": "Мирлан К.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1756680000000
+    }
+   ]
+  },
+  {
+   "id": "kit05",
+   "name": {
+    "kg": "Мастер жана Маргарита",
+    "ru": "Мастер и Маргарита",
+    "en": "The Master and Margarita"
+   },
+   "desc": {
+    "kg": "Булгаковдун мистикалык романы. Москвадагы шайтандын укмуштуу окуялары.",
+    "ru": "Мистический роман Булгакова.",
+    "en": "Bulgakov's mystical novel."
+   },
+   "category": "world",
+   "price": 1150,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.9,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/novel,vintage?lock=213",
+   "gallery": [
+    "https://loremflickr.com/800/600/novel,vintage?lock=213",
+    "https://loremflickr.com/800/600/novel,vintage?lock=214",
+    "https://loremflickr.com/800/600/novel,vintage?lock=215"
+   ],
+   "specs": {
+    "author": "М. Булгаков",
+    "pages": 480,
+    "lang": {
+     "kg": "Орусча",
+     "ru": "Русский",
+     "en": "Russian"
+    },
+    "cover": {
+     "kg": "Катуу",
+     "ru": "Твёрдая",
+     "en": "Hardcover"
+    },
+    "year": 2022,
+    "publisher": "АСТ"
+   },
+   "tags": [
+    "роман",
+    "классика"
+   ],
+   "reviews": [
+    {
+     "author": "Эрмек С.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1759531200000
+    },
+    {
+     "author": "Тимур И.",
+     "rating": 5,
+     "text": "Абдан жакты! Сапаты жогору, баарына сунуштайм.",
+     "date": 1759790400000
+    }
+   ]
+  },
+  {
+   "id": "kit06",
+   "name": {
+    "kg": "1984",
+    "ru": "1984",
+    "en": "1984"
+   },
+   "desc": {
+    "kg": "Оруэллдин антиутопиясы. Көзөмөл жана эркиндик тууралуу эң белгилүү роман.",
+    "ru": "Антиутопия Оруэлла о контроле и свободе.",
+    "en": "Orwell's dystopia about control and freedom."
+   },
+   "category": "world",
+   "price": 990,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.7,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/book,english?lock=216",
+   "gallery": [
+    "https://loremflickr.com/800/600/book,english?lock=216",
+    "https://loremflickr.com/800/600/book,english?lock=217",
+    "https://loremflickr.com/800/600/book,english?lock=218"
+   ],
+   "specs": {
+    "author": "G. Orwell",
+    "pages": 328,
+    "lang": {
+     "kg": "Англисче",
+     "ru": "Английский",
+     "en": "English"
+    },
+    "cover": {
+     "kg": "Жумшак",
+     "ru": "Мягкая",
+     "en": "Paperback"
+    },
+    "year": 2021,
+    "publisher": "Penguin"
+   },
+   "tags": [
+    "антиутопия"
+   ],
+   "reviews": [
+    {
+     "author": "Алина К.",
+     "rating": 5,
+     "text": "Тез жана сапаттуу кызмат көрсөтүштү, рахмат!",
+     "date": 1760222400000
+    },
+    {
+     "author": "Канышай Р.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1756593600000
+    }
+   ]
+  },
+  {
+   "id": "kit07",
+   "name": {
+    "kg": "Бай ата, кедей ата",
+    "ru": "Богатый папа, бедный папа",
+    "en": "Rich Dad Poor Dad"
+   },
+   "desc": {
+    "kg": "Каржылык сабаттуулук боюнча эң популярдуу китеп. Акча сиз үчүн иштесин!",
+    "ru": "Самая популярная книга о финансовой грамотности.",
+    "en": "The most popular book on financial literacy."
+   },
+   "category": "business",
+   "price": 1290,
+   "oldPrice": 1490,
+   "stock": 10,
+   "rating": 4.6,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/business,book?lock=219",
+   "gallery": [
+    "https://loremflickr.com/800/600/business,book?lock=219",
+    "https://loremflickr.com/800/600/business,book?lock=220",
+    "https://loremflickr.com/800/600/business,book?lock=221"
+   ],
+   "specs": {
+    "author": "R. Kiyosaki",
+    "pages": 336,
+    "lang": {
+     "kg": "Орусча",
+     "ru": "Русский",
+     "en": "Russian"
+    },
+    "cover": {
+     "kg": "Жумшак",
+     "ru": "Мягкая",
+     "en": "Paperback"
+    },
+    "year": 2024,
+    "publisher": "Попурри"
+   },
+   "tags": [
+    "акча",
+    "бизнес"
+   ],
+   "reviews": [
+    {
+     "author": "Эрмек С.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1759617600000
+    },
+    {
+     "author": "Мирлан К.",
+     "rating": 4,
+     "text": "Баасына жараша сапаты жакшы. Ыраазымын.",
+     "date": 1759012800000
+    },
+    {
+     "author": "Бекзат О.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1759358400000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1756680000000
+    }
+   ]
+  },
+  {
+   "id": "kit08",
+   "name": {
+    "kg": "Атомдук адаттар",
+    "ru": "Атомные привычки",
+    "en": "Atomic Habits"
+   },
+   "desc": {
+    "kg": "Кичинекей өзгөрүүлөр чоң натыйжа берет. Адаттарды түзүү боюнча практикалык колдонмо.",
+    "ru": "Маленькие изменения — большие результаты.",
+    "en": "Tiny changes, remarkable results."
+   },
+   "category": "business",
+   "price": 1390,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.8,
+   "isNew": true,
+   "img": "https://loremflickr.com/800/600/habit,desk?lock=222",
+   "gallery": [
+    "https://loremflickr.com/800/600/habit,desk?lock=222",
+    "https://loremflickr.com/800/600/habit,desk?lock=223",
+    "https://loremflickr.com/800/600/habit,desk?lock=224"
+   ],
+   "specs": {
+    "author": "J. Clear",
+    "pages": 320,
+    "lang": {
+     "kg": "Кыргызча",
+     "ru": "Кыргызский",
+     "en": "Kyrgyz"
+    },
+    "cover": {
+     "kg": "Жумшак",
+     "ru": "Мягкая",
+     "en": "Paperback"
+    },
+    "year": 2025,
+    "publisher": "Bilim"
+   },
+   "tags": [
+    "өнүгүү"
+   ],
+   "reviews": [
+    {
+     "author": "Айбек А.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1757544000000
+    },
+    {
+     "author": "Эрмек С.",
+     "rating": 5,
+     "text": "Күткөнүмдөн да жакшы чыкты. Дагы келем!",
+     "date": 1758753600000
+    }
+   ]
+  },
+  {
+   "id": "kit09",
+   "name": {
+    "kg": "Кыргыз эл жомоктору",
+    "ru": "Кыргызские народные сказки",
+    "en": "Kyrgyz folk tales"
+   },
+   "desc": {
+    "kg": "Түстүү сүрөттөр менен 30 эл жомогу. Уктаар алдында окууга эң сонун.",
+    "ru": "30 народных сказок с цветными иллюстрациями.",
+    "en": "30 folk tales with color illustrations."
+   },
+   "category": "kids",
+   "price": 590,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.9,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/kids,fairy?lock=225",
+   "gallery": [
+    "https://loremflickr.com/800/600/kids,fairy?lock=225",
+    "https://loremflickr.com/800/600/kids,fairy?lock=226",
+    "https://loremflickr.com/800/600/kids,fairy?lock=227"
+   ],
+   "specs": {
+    "author": {
+     "kg": "Эл оозунан",
+     "ru": "Народные",
+     "en": "Folk"
+    },
+    "pages": 96,
+    "lang": {
+     "kg": "Кыргызча",
+     "ru": "Кыргызский",
+     "en": "Kyrgyz"
+    },
+    "cover": {
+     "kg": "Катуу",
+     "ru": "Твёрдая",
+     "en": "Hardcover"
+    },
+    "year": 2025,
+    "publisher": "Шам"
+   },
+   "tags": [
+    "жомок",
+    "балдар"
+   ],
+   "reviews": [
+    {
+     "author": "Алина К.",
+     "rating": 5,
+     "text": "Супер! Досторума да сунуштадым.",
+     "date": 1759012800000
+    },
+    {
+     "author": "Тимур И.",
+     "rating": 4,
+     "text": "Хорошо, но доставка немного задержалась.",
+     "date": 1759617600000
+    },
+    {
+     "author": "Алина К.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1756075200000
+    },
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1759876800000
+    }
+   ]
+  },
+  {
+   "id": "kit10",
+   "name": {
+    "kg": "Алиппе",
+    "ru": "Букварь",
+    "en": "ABC book"
+   },
+   "desc": {
+    "kg": "1-класс окуучулары үчүн кыргыз алиппеси. Оюндар жана тапшырмалар менен.",
+    "ru": "Кыргызский букварь для первоклассников.",
+    "en": "Kyrgyz ABC book for first graders."
+   },
+   "category": "kids",
+   "price": 450,
+   "oldPrice": null,
+   "stock": 40,
+   "rating": 4.7,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/alphabet,kids?lock=228",
+   "gallery": [
+    "https://loremflickr.com/800/600/alphabet,kids?lock=228",
+    "https://loremflickr.com/800/600/alphabet,kids?lock=229",
+    "https://loremflickr.com/800/600/alphabet,kids?lock=230"
+   ],
+   "specs": {
+    "author": "Б. Абдыкадыров",
+    "pages": 160,
+    "lang": {
+     "kg": "Кыргызча",
+     "ru": "Кыргызский",
+     "en": "Kyrgyz"
+    },
+    "cover": {
+     "kg": "Жумшак",
+     "ru": "Мягкая",
+     "en": "Paperback"
+    },
+    "year": 2025,
+    "publisher": "Билим"
+   },
+   "tags": [
+    "мектеп"
+   ],
+   "reviews": [
+    {
+     "author": "Айбек А.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1760481600000
+    },
+    {
+     "author": "Эрмек С.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1757803200000
+    },
+    {
+     "author": "Нургүл Т.",
+     "rating": 5,
+     "text": "Отлично! Всё понравилось, рекомендую.",
+     "date": 1759358400000
+    },
+    {
+     "author": "Бекзат О.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1756161600000
+    }
+   ]
+  },
+  {
+   "id": "kit11",
+   "name": {
+    "kg": "Убакыттын кыскача тарыхы",
+    "ru": "Краткая история времени",
+    "en": "A Brief History of Time"
+   },
+   "desc": {
+    "kg": "Стивен Хокингдин космос жана кара тешиктер жөнүндөгү белгилүү китеби.",
+    "ru": "Знаменитая книга Хокинга о космосе.",
+    "en": "Hawking's famous book about the cosmos."
+   },
+   "category": "science",
+   "price": 1450,
+   "oldPrice": null,
+   "stock": 10,
+   "rating": 4.7,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/universe,book?lock=231",
+   "gallery": [
+    "https://loremflickr.com/800/600/universe,book?lock=231",
+    "https://loremflickr.com/800/600/universe,book?lock=232",
+    "https://loremflickr.com/800/600/universe,book?lock=233"
+   ],
+   "specs": {
+    "author": "S. Hawking",
+    "pages": 256,
+    "lang": {
+     "kg": "Орусча",
+     "ru": "Русский",
+     "en": "Russian"
+    },
+    "cover": {
+     "kg": "Катуу",
+     "ru": "Твёрдая",
+     "en": "Hardcover"
+    },
+    "year": 2022,
+    "publisher": "АСТ"
+   },
+   "tags": [
+    "космос",
+    "илим"
+   ],
+   "reviews": [
+    {
+     "author": "Канышай Р.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1759272000000
+    },
+    {
+     "author": "Азамат Б.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1759963200000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 3,
+     "text": "Жаман эмес, бирок андан жакшысын күткөм.",
+     "date": 1760222400000
+    },
+    {
+     "author": "Айбек А.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1756075200000
+    }
+   ]
+  },
+  {
+   "id": "kit12",
+   "name": {
+    "kg": "Sapiens: Адамзаттын тарыхы",
+    "ru": "Sapiens: Краткая история человечества",
+    "en": "Sapiens"
+   },
+   "desc": {
+    "kg": "Харари адамзаттын таш доорунан бүгүнкү күнгө чейинки жолун баяндайт.",
+    "ru": "Харари о пути человечества от каменного века до наших дней.",
+    "en": "Harari on humankind from the Stone Age to today."
+   },
+   "category": "science",
+   "price": 1550,
+   "oldPrice": null,
+   "stock": 0,
+   "rating": 4.8,
+   "isNew": false,
+   "img": "https://loremflickr.com/800/600/history,human?lock=234",
+   "gallery": [
+    "https://loremflickr.com/800/600/history,human?lock=234",
+    "https://loremflickr.com/800/600/history,human?lock=235",
+    "https://loremflickr.com/800/600/history,human?lock=236"
+   ],
+   "specs": {
+    "author": "Y. N. Harari",
+    "pages": 512,
+    "lang": {
+     "kg": "Орусча",
+     "ru": "Русский",
+     "en": "Russian"
+    },
+    "cover": {
+     "kg": "Катуу",
+     "ru": "Твёрдая",
+     "en": "Hardcover"
+    },
+    "year": 2023,
+    "publisher": "Синдбад"
+   },
+   "tags": [
+    "тарых"
+   ],
+   "reviews": [
+    {
+     "author": "Алина К.",
+     "rating": 4,
+     "text": "Жакшы, бирок бир аз кымбатыраак экен.",
+     "date": 1756939200000
+    },
+    {
+     "author": "Жылдыз М.",
+     "rating": 5,
+     "text": "Great quality and friendly support!",
+     "date": 1756852800000
+    }
+   ]
+  }
+ ]
+}
